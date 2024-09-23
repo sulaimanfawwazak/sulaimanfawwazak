@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fawwaz</h1>
-<h3 align="center">I'm interested in Cyber Security and Computer Vision</h3>
+<h3 align="center">I'm interested in Computer Vision, Artificial Intelligence,Data Engineering, and Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulaimanfawwazak&label=Profile%20views&color=0e75b6&style=flat" alt="sulaimanfawwazak" /> </p>
 
-- 🌱 I’m currently learning **Binary Exploitation, Reverse Engineering, and Computer Vision using OpenCV library**
+- 🌱 I’m currently learning **Computer Vision, Data Engineering, and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [github.com/sulaimanfawwazak](github.com/sulaimanfawwazak)
 
-- 📫 How to reach me **sulaimanfawwazak@gmail.com**
-
-- ⚡ Fun fact **I'm lactose intollerant**
+- 📫 You can reach me via **sulaimanfawwazak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
