@@ -19,9 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulaimanfawwazak&show_icons=true&locale=en" alt="sulaimanfawwazak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaimanfawwazak&" alt="sulaimanfawwazak" /></p>
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=rciyweastua61vnf0yabjx0wv&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=rciyweastua61vnf0yabjx0wv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-  </a>
-</p>
