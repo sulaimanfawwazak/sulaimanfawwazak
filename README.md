@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulaimanfawwazak&label=Profile%20views&color=0e75b6&style=flat" alt="sulaimanfawwazak" /> </p>
 
 - 📖 **Currently learning**: Computer Vision, AI, Data Engineering, and Software Engineering
-
 - 📫 **Contact me**: sulaimanfawwazak@gmail.com
+- 🌐︎ **My website**: https://sfawwaz-web.vercel.app/
 
 
 <h3 align="left">Connect with me:</h3>
